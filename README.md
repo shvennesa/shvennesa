@@ -58,3 +58,7 @@
 
 [linkedin]: https://www.linkedin.com/in/shahira-vennesa-steven-37463b190/
 [website]: https://shvennesa.github.io/cv/
+[webdevplaylist]: https
+[cssplaylist]: https
+[jsplaylist]: https
+[reactplaylist]: https
